@@ -1,7 +1,7 @@
 # 前端少侠们，来打造一个逼格满满的Dock栏吧！
 
 先看一下我的Dock:
-![](http://yotuku.cn/link?url=S1KuGhSZe&tk_plan=free&tk_storage=tietuku&tk_vuid=f648123f-0747-495b-89ad-f89676108b02&tk_time=2016111317)
+![](http://i1.piimg.com/4851/c4a9d0dcb70f84fa.png)
 
 是不是很多图标很熟悉但是又和软件原来的不一样；
 
